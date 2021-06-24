@@ -1,0 +1,13 @@
+Country,Customer reference,Sales channel,Country Code,Location code
+France,30 Amazon - FR,Amazon.fr,EU,EU
+United Kingdom,14 Amazon - UK,Amazon.co.uk,UK,UK
+United States,16 Amazon - US,Amazon.com,US,US
+Canada,17 Amazon - CA,Amazon.ca,CA,CA
+Germany,19 Amazon - DE,Amazon.de,DE,EU
+Spain,29 Amazon - ES,Amazon.es,ES,EU
+Italy,31 Amazon - IT,Amazon.it,IT,EU
+Sweden,32 Amazon - SE,Amazon.se,SE,EU
+Mexico,33 Amazon - MX,Amazon.com.mx,MX,US
+Netherlands,35 Amazon - NL,Amazon.nl,NL,EU
+Australia,34 Amazon - AU,Amazon.com.au,AUS,AUS
+Poland,15 Amazon - PL,Amazon.pl,PL,EU

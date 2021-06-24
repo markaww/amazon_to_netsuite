@@ -1,0 +1,43 @@
+Costs,NS
+FBAPerUnitFulfillmentFee,Fullfillment (FBA) Costs Total : Fullfillment (FBA) costs
+Commission,Fullfillment (FBA) Costs Total : Commission
+TransactionTotalAmount,Fullfillment (FBA) Costs Total : Other fees
+ShippingChargeback,Fullfillment (FBA) Costs Total : Chargeback
+FBAInboundTransportationProgramFee,Fullfillment (FBA) Costs Total : Inbound fees
+FBAInboundTransportationFee,Fullfillment (FBA) Costs Total : Inbound fees
+TaxDiscount,Fullfillment (FBA) Costs Total : Tax adjustment
+RefundCommission,Fullfillment (FBA) Costs Total : Refund Commission
+DisposalComplete,Fullfillment (FBA) Costs Total : Inventory removal
+COMPENSATED_CLAWBACK,Fullfillment (FBA) Costs Total : Inventory removal
+MISSING_FROM_INBOUND,Fullfillment (FBA) Costs Total : Inventory lost
+MarketplaceFacilitatorVAT-Principal,Fullfillment (FBA) Costs Total : Tax adjustment
+MarketplaceFacilitatorVAT-Shipping,Fullfillment (FBA) Costs Total : Tax adjustment
+GiftwrapChargeback,Fullfillment (FBA) Costs Total : Chargeback
+SalesTaxServiceFee,Fullfillment (FBA) Costs Total : Sales Tax Service Fee
+CouponRedemptionFee,Fullfillment (FBA) Costs Total : Other fees
+Service fee,Marketing (Amazon) Total : Listing fees
+Storage,Fullfillment (FBA) Costs Total : Storage costs
+Storage Fee,Fullfillment (FBA) Costs Total : Storage costs
+StorageRenewalBilling,Fullfillment (FBA) Costs Total : Storage costs
+MarketplaceFacilitatorTax-Other,Fullfillment (FBA) Costs Total : Tax adjustment
+MarketplaceFacilitatorTax-Principal,Fullfillment (FBA) Costs Total : Tax adjustment
+LowValueGoodsTax-Shipping,Fullfillment (FBA) Costs Total : Tax adjustment
+LowValueGoodsTax-Principal,Fullfillment (FBA) Costs Total : Tax adjustment
+MarketplaceFacilitatorTax-Shipping,Fullfillment (FBA) Costs Total : Tax adjustment
+Commingling VAT,Fullfillment (FBA) Costs Total : Tax adjustment
+WAREHOUSE_LOST,Fullfillment (FBA) Costs Total : Inventory lost
+WAREHOUSE_LOST_MANUAL,Fullfillment (FBA) Costs Total : Inventory lost
+Goodwill,Fullfillment (FBA) Costs Total : Other fees
+Paid Services Fee,Fullfillment (FBA) Costs Total : Other fees
+Current Reserve Amount,Fullfillment (FBA) Costs Total : Other fees
+Previous Reserve Amount Balance,Fullfillment (FBA) Costs Total : Other fees
+ShippingChargeback,Fullfillment (FBA) Costs Total : Chargeback
+TaxDiscount,Fullfillment (FBA) Costs Total : Tax adjustment
+MarketplaceFacilitatorTax-Principal,Fullfillment (FBA) Costs Total : Tax adjustment
+MarketplaceFacilitatorTax-Shipping,Fullfillment (FBA) Costs Total : Tax adjustment
+MarketplaceFacilitatorTax-RestockingFee,Fullfillment (FBA) Costs Total : Tax adjustment
+Commission,Fullfillment (FBA) Costs Total : Commission
+REVERSAL_REIMBURSEMENT,Fullfillment (FBA) Costs Total : Inventory damaged
+WAREHOUSE_DAMAGE,Fullfillment (FBA) Costs Total : Inventory damaged
+Warehouse damage,Fullfillment (FBA) Costs Total : Inventory damaged
+FREE_REPLACEMENT_REFUND_ITEMS,Fullfillment (FBA) Costs Total : Inventory damaged
